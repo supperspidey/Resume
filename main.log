@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  15 FEB 2016 10:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  15 FEB 2016 10:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -874,15 +874,15 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 17714 strings out of 493089
- 296565 string characters out of 6134842
+ 17712 strings out of 493089
+ 296545 string characters out of 6134842
  380349 words of memory out of 5000000
  20978 multiletter control sequences out of 15000+600000
- 57597 words of font info for 57 fonts, out of 8000000 for 9000
+ 57488 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  45i,11n,45p,10376b,336s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmss9.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmssbo10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmsso10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmsso9.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on main.pdf (1 page, 172482 bytes).
+Output written on main.pdf (1 page, 172439 bytes).
 PDF statistics:
  77 PDF objects out of 1000 (max. 8388607)
  65 compressed objects within 1 object stream

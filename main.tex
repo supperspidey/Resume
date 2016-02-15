@@ -1,4 +1,4 @@
-\documentclass[11pt,a4paper,sans]{moderncv}
+\documentclass[10pt,a4paper,sans]{moderncv}
 \usepackage{comment}
 
 \moderncvstyle{banking}
@@ -22,21 +22,20 @@
 \section{Experience}
 \cventry{July 2015--Present}{iOS Software Engineer}{MuseAmi, Inc.}{Princeton, NJ}{}{
 	\begin{itemize}
-		\item Involve in development of \href{https://itunes.apple.com/us/app/musicpal-snap-hear-play-learn/id976261614?mt=8}{\textbf{MusicPal}}, iOS app that converts camera captures of physical sheet music into interactive scores, including:
+		\item \href{https://itunes.apple.com/us/app/musicpal-snap-hear-play-learn/id976261614?mt=8}{\textbf{MusicPal}} iOS app converts camera captures of physical sheet music into interactive scores.
 			\begin{itemize}
-				\item Implementing adaptive user interface (UI), resulting in scalable and glitch-free layouts across all devices supported by iOS 8 and iOS 9
-				\item Optimizing various features using multi-threading, leading to more responsive user experience
-				\item Building and maintaining matching game whose outcomes are used to improve underlying optical music recognition engine, with all supported devices running at 60 frames per second
-				\item Diagnosing C++ layers used to draw music scores from machine learning's output and render audio
+				\item Implement adaptive user interface, resulting in scalable layouts across all devices supported by iOS 8 and iOS 9
+				\item Optimize saving and loading data using multi-threading, increasing responsiveness on least powerful device by 10 times
+				\item Build and maintain mini game whose outcomes are used to improve underlying optical music recognition engine, with all supported devices running at 60 frames per second
+				\item Diagnose C++ layers used to render audio and draw music notations from machine learning's output
+				\item Collaborate with other product engineering team members in planning, executing, and reviewing all agile development cycles of MusicPal, with new feature deployed every two weeks
 			\end{itemize}
-		\item Convert all files written in Swift 1.0 to Swift 2.0 language and reinforce rules for defensive programming, leading to safer and better code
-		\item Collaborate with other product engineering team members in planning, executing, and reviewing all agile development cycles of MusicPal, with new feature deployed every two weeks
 	\end{itemize}
 }
 \vspace{10 pt}
 \cventry{April 2014--September 2014}{iOS Software Engineering Co-op}{Philadelphia Media Network}{Philadelphia, PA}{}{
     \begin{itemize}
-        \item Assisted multiple tech start-ups with their mobile projects, including implementing iOS apps' user interface and push notification, programming and benchmarking 3D presentation software, and prototyping wearable product's proximity and notification control using Core Bluetooth framework
+        \item Assisted multiple tech start-ups with their mobile projects
         \item Participated in designing, implementing, profiling, and deploying "recommendation" feature of \href{https://itunes.apple.com/us/app/philly.com-app/id577251728?mt=8}{Philly.com} app
         \item Acquired knowledge on git, subversion, TestFlight, bluetooth LE, SceneKit, Core Audio, and Core Bluetooth framework
     \end{itemize}
@@ -45,17 +44,16 @@
 \cventry{October 2012--March 2013}{iOS Software Engineer Co-op}{Comcast Interactive Media}{Philadelphia, PA}{}{
     \begin{itemize}
         \item Reverse-engineered XFINITY TV Player app to reconstruct the application’s data models
-        \item Designed, developed, and profiled internal iOS apps demonstrating data models and information flow of XFINITY TV Player and XFINITY Remote apps
-        \item Created 8-page report of how written apps operated
-        \item Acquired knowledge on Objective-C runtime programming and UNIX shell scripting
+        \item Designed and developed an internal iOS app demonstrating data models and information flow of XFINITY TV Player app
+        \item Created 8-page report of how written app operated
     \end{itemize}
 }
 
 \section{Academic Projects}
 \cventry{August 2014--June 2015}{\textbf{Senior Design} - Wireless Infant Respiration Monitoring System}{Drexel University}{Philadelphia, PA}{}{
     \begin{itemize}
-        \item Collaborated in a multi-disciplinary research group to develop a textile-based respiration monitoring system for infants with high accuracy while maintaining non-intrusive nature of wearable technology
-        \item Analyzed and processed data acquired from the system with various signal processing as well as machine learning techniques in order to recognize breathing and non-breathing patterns
+        \item Developed a textile-based respiration monitoring system for infants using fabric antenna
+        \item Analyzed data from the system with various signal processing and machine learning techniques for breathing recognition
     \end{itemize}
 }
 
@@ -70,19 +68,7 @@
 \cvitem{Basic}{CloudKit, CoreData, Core Location, MapKit}
 
 \section{Activities}
-\cventry{April 2013--December 2014}{Guitarist}{Drexel University}{Philadelphia, PA}{}{
-    \begin{itemize}
-        \item Performed in Drexel's guitar ensemble and rock ensemble as guitarist
-        \item Delivered public performance at the end of each academic term
-    \end{itemize}
-}
-
-\vspace{10 pt}
-\cventry{2010--2011}{Exhibition Presenter}{The Franklin Institute}{Philadelphia, PA}{}{
-    \begin{itemize}
-        \item Addressed customers’ inquiries about science-related matters and encouraged them to participate in hands-on scientific activities
-        \item Demonstrated intricate scientific concepts through easy-to-understand exhibitions
-    \end{itemize}
-}
+\cvitemwithcomment{Drexel's Rock Ensemble}{Guitarist}{April 2013–December 2014}
+\cvitemwithcomment{The Franklin Institute}{Exhibition Presenter}{2010--2011}
 
 \end{document}

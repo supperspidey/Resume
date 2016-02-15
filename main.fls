@@ -165,6 +165,8 @@ INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/lm/ec-lmssbx10.tfm
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/lm/ec-lmssbx10.tfm
 INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/microtype/mt-mvs.cfg
 INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/microtype/mt-mvs.cfg
+INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/lm/ec-lmss12.tfm
+INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/marvosym/umvs.tfm
 INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/lm/ot1lmr.fd
 INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/lm/ot1lmr.fd
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/lm/rm-lmr10.tfm
@@ -185,7 +187,6 @@ INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/lm/lmsy5.tfm
 INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/lm/omxlmex.fd
 INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/lm/omxlmex.fd
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/lm/lmex10.tfm
-INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/lm/ec-lmss12.tfm
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/lm/ec-lmssbx10.tfm
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/lm/ec-lmsso10.tfm
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/lm/ec-lmss9.tfm

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  14 FEB 2016 19:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  14 FEB 2016 23:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -680,28 +680,28 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 )
 \Hy@SectionHShift=\skip77
 )
-Package hyperref Info: Option `breaklinks' set `true' on input line 16.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 16.
+Package hyperref Info: Option `breaklinks' set `true' on input line 15.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 15.
  (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Try loading font information for T1+qpl on input line 16.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Try loading font information for T1+qpl on input line 15.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/tex-gyre/t1qpl.fd
 File: t1qpl.fd 2009/09/25 v1.2 font definition file for T1/qpl
 ) (/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
@@ -728,7 +728,7 @@ Package grfext Info: Graphics extension search list:
  (/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-LaTeX Info: Redefining \microtypecontext on input line 16.
+LaTeX Info: Redefining \microtypecontext on input line 15.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -741,7 +741,7 @@ Package microtype Info: No adjustment of character kerning.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/microtype/mt-ppl.cfg
 File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
 )
-LaTeX Font Info:    Try loading font information for T1+lmss on input line 16.
+LaTeX Font Info:    Try loading font information for T1+lmss on input line 15.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/t1lmss.fd
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
@@ -759,14 +759,14 @@ Package microtype Info: Loading generic settings for font family
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(57.81621pt, 481.87546pt, 57.81621pt)
-* v-part:(T,H,B)=(57.81621pt, 729.41443pt, 57.81621pt)
+* v-part:(T,H,B)=(54.2025pt, 736.64185pt, 54.2025pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
 * \textwidth=481.87546pt
-* \textheight=729.41443pt
+* \textheight=736.64185pt
 * \oddsidemargin=-14.45378pt
 * \evensidemargin=-14.45378pt
-* \topmargin=-51.45378pt
+* \topmargin=-55.06749pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=11.0pt
@@ -785,7 +785,7 @@ Package microtype Info: Loading generic settings for font family
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \AtBeginShipoutBox=\box45
-Package hyperref Info: Link coloring OFF on input line 16.
+Package hyperref Info: Link coloring OFF on input line 15.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
  (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
@@ -793,77 +793,79 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count138
 )
-LaTeX Info: Redefining \ref on input line 16.
-LaTeX Info: Redefining \pageref on input line 16.
-LaTeX Info: Redefining \nameref on input line 16.
+LaTeX Info: Redefining \ref on input line 15.
+LaTeX Info: Redefining \pageref on input line 15.
+LaTeX Info: Redefining \nameref on input line 15.
  (./main.out) (./main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
 \pagenumberwidth=\skip78
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 16.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 15.
 LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <24.88> not available
-(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 18.
+(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 17.
 LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <10.95> not available
-(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 18.
+(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 17.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/microtype/mt-mvs.cfg
 File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
 )
-LaTeX Font Info:    Try loading font information for OMS+qpl on input line 18.
-LaTeX Font Info:    No file OMSqpl.fd. on input line 18.
+LaTeX Font Info:    Try loading font information for OMS+qpl on input line 17.
+LaTeX Font Info:    No file OMSqpl.fd. on input line 17.
 
 
 LaTeX Font Warning: Font shape `OMS/qpl/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbullet' on input line 18.
+(Font)              for symbol `textbullet' on input line 17.
 
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 18.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 17.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ) (/usr/local/texlive/2015/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 18.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 17.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 18.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 17.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 18.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 17.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 18.
+(Font)              <10.95> on input line 17.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 18.
+(Font)              <8> on input line 17.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 18.
+(Font)              <6> on input line 17.
 
-Underfull \hbox (badness 10000) in paragraph at lines 18--18
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
 
  []
 
 LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <14.4> not available
-(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 20.
+(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 19.
 LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <10> not available
-(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 36.
+(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 35.
+LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <12> not available
+(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 35.
+LaTeX Font Info:    Font shape `T1/lmss/b/it' in size <10.95> not available
+(Font)              Font shape `T1/lmss/bx/it' tried instead on input line 60.
+LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <10.95> not available
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 60.
 [1
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Font shape `T1/lmss/b/it' in size <10.95> not available
-(Font)              Font shape `T1/lmss/bx/it' tried instead on input line 78.
-LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <10.95> not available
-(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 78.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 106.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 88.
  [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 106.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 88.
  (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 106.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 106.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 88.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 88.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: B8E80051F7BDD7F9763A8DB28A5515D3;637.
 
@@ -872,18 +874,18 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 17710 strings out of 493089
- 296504 string characters out of 6134842
- 381506 words of memory out of 5000000
- 20969 multiletter control sequences out of 15000+600000
- 49125 words of font info for 54 fonts, out of 8000000 for 9000
+ 17707 strings out of 493089
+ 296547 string characters out of 6134842
+ 381387 words of memory out of 5000000
+ 20974 multiletter control sequences out of 15000+600000
+ 54707 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 45i,13n,45p,10376b,337s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 45i,13n,46p,10376b,342s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmssbo10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmsso10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on main.pdf (2 pages, 130215 bytes).
+Output written on main.pdf (2 pages, 128124 bytes).
 PDF statistics:
- 86 PDF objects out of 1000 (max. 8388607)
- 74 compressed objects within 1 object stream
- 17 named destinations out of 1000 (max. 500000)
- 13361 words of extra memory for PDF output out of 14400 (max. 10000000)
+ 75 PDF objects out of 1000 (max. 8388607)
+ 63 compressed objects within 1 object stream
+ 9 named destinations out of 1000 (max. 500000)
+ 15921 words of extra memory for PDF output out of 17280 (max. 10000000)
 
